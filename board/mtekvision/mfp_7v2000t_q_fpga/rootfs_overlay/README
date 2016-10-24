@@ -1,0 +1,8 @@
+###############################################
+# Symbol: BR2_ROOTFS_OVERLAY [=y]             #    
+# Type  : string                              #
+# Prompt: Root filesystem overlay directories #
+#   Location:                                 #
+# (1) -> System configuration                 #
+#   Defined at system/Config.in:382           #
+###############################################
